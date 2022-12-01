@@ -42,24 +42,29 @@ nav {
     margin: 2rem 0;
 }
 
-.riga {
-    
-}
+
 .descrizione {
     float: left;
-    width: calc(30%);
+    width: 30%;
     background-color: #0f0e17;
     color: white;
+    margin: 1.5%;
 }
+
 
 .descrizione > img {
     float: left;
-    width: 150px;
+    width: 110px;
+}
+
+.riga {
+    padding: 30px 0;
 }
 
 .info > * {
-    margin-bottom: 20px;
+    padding: 2%;
 }
+
 a {
     text-decoration: none;
 }
